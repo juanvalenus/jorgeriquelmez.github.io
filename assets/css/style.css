@@ -2,16 +2,16 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f7f7f7;
 }
-.navbar-brand{
-    height: 130px;
-}
+
 .row{
     margin-top: 100px;
 }
 .top {
     background-image: linear-gradient(45deg, #333, #ccc);
 }
-
+#titulo{
+    font-size: 18px;
+}
 header img {
     width: 200px;
     height: 200px;
@@ -45,73 +45,14 @@ footer {
 footer p {
     margin-bottom: 10px;
 }
+.navbar{
+    height: 150px;
 
-
-.navbar-default {
-    background-color: #333;
-    border-color: #333;
 }
 
-.navbar-default .navbar-nav > li > a {
-    color: #fff;
-}
-
-.navbar-default .navbar-nav > li > a:hover {
-    background-color: #444;
-}
-
-.navbar-default .navbar-toggle {
-    border-color: #333;
-}
-
-.navbar-default .navbar-toggle:hover {
-    background-color: #444;
-}
-
-.navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
-}
-.btn{
-    background-color: transparent;
-    margin-left: 100px;
-}
-.navbar-nav{
-    list-style: none;
-}
-.nav-item{
-
-    margin-left: 20px;
-}
-.bg-gray {
-    background-color: #ccc;
-}
-  
-.bg-blue {
-    background-color: #007bff;
-}
-  
 .row {
     margin: 0;
 }
-  
-.col-md-6 {
-    padding: 0;
-}
-  
-.img-fluid {
-    border: 10px solid #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-  
-.navbar-nav {
-    justify-content: flex-end;
-    margin-top: 150px;
-}
-  
-.btn-outline-success {
-    margin-top: -7px;
-    margin-bottom: 10px;
-}
-body .header{
-    background-color: transparent;
-}
+.icono {
+    margin-right: 10px;
+  }
