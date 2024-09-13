@@ -9,5 +9,5 @@ https://jorgeriquelmez.github.io/
 ## Fork2
 ### original : https://github.com/cyberzone8/cyberzone8.github.io
 ### fork : https://github.com/jorgeriquelmez/cyberzone8.github.io
-![primer fork](./colaborativo/colaborativo2.png)
+![segundo fork](./colaborativo/colaborativo2.png)
 
